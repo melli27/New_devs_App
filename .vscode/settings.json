@@ -17,5 +17,5 @@
   "python.analysis.typeCheckingMode": "basic", // Ensures type checking is enabled
   "python.analysis.autoImportCompletions": true, // Helps with auto-imports
   "git.ignoreLimitWarning": true,
-  "python.defaultInterpreterPath": "backend/.venv/bin/python"
+  "python.defaultInterpreterPath": "C:\\Users\\melan\\Documents\\uni\\bewerbung\\New_devs_App\\backend\\.venv\\Scripts\\python.exe"
 }
